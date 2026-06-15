@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://-0e2b1fc4.zappy5.app
+https://example.com
 גלו איך גלי מתקדמת מביאה טכנולוגיה מתקדמת לעסקים בישראל עם פתרונות מותאמים אישית שמאיצים צמיחה. חדשנות טכנולוגית לעסקים קטנים ובינוניים שמחפשים לפרוץ גבולות — בואו להמציא את העתיד שלכם עוד היום.
 
 ### שירותים
-https://-0e2b1fc4.zappy5.app/services
+https://example.com/services
 חפשו פתרונות טכנולוגיים לסטארטאפים שנותנים לכם יתרון בשוק? גלי מתקדמת מציעה סל שירותים חדשני המותאם לצרכים הייחודיים שלכם. משלב הרעיון ועד למימוש — קחו את הצעד הראשון להצלחה טכנולוגית אמיתית.
 
 ### אודות
-https://-0e2b1fc4.zappy5.app/about
+https://example.com/about
 מי אנחנו ולמה גלי מתקדמת היא הבחירה המובילה לטכנולוגיה מתקדמת לעסקים בישראל? סיפור של תשוקה לחדשנות, מומחיות ללא פשרות ומחויבות להפוך כל עסק קטן או בינוני לסיפור הצלחה. הצטרפו למסע שלנו עוד היום.
 
 ### צור קשר
-https://-0e2b1fc4.zappy5.app/contact
+https://example.com/contact
 מוכנים להזניק את הרעיון שלכם עם פתרונות טכנולוגיים לסטארטאפים? צרו קשר עם גלי מתקדמת עכשיו לשיחת ייעוץ חינם. אנחנו כאן כדי להפוך את האתגרים שלכם להזדמנויות — השאירו פרטים ונתחיל לבנות את העתיד ביחד.
 
 ### Products
-https://-0e2b1fc4.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - גלי מתקדמת
 
 ### Product Detail
-https://-0e2b1fc4.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - גלי מתקדמת
 
 ### Category
-https://-0e2b1fc4.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - גלי מתקדמת
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-0e2b1fc4.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-0e2b1fc4.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-0e2b1fc4.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -73,8 +73,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-0e2b1fc4.zappy5.app/sitemap.xml
-- Robots: https://-0e2b1fc4.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-0e2b1fc4.zappy5.app/llms-full.txt
-- Products (JSON): https://-0e2b1fc4.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-0e2b1fc4.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
